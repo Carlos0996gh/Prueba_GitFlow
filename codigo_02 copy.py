@@ -1,2 +1,1 @@
-print('Hola 2')
-print('Otro cambio')
+print('se cambia totalmeye porque habia un bug')
